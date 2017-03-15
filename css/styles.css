@@ -1,0 +1,13 @@
+span {
+  font-weight: bold;
+}
+
+div.skills {
+  color: red;
+  font-style: italic;
+}
+
+div.education {
+  color: green;
+  font-style: oblique;
+}
